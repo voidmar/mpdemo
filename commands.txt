@@ -1,0 +1,18 @@
+RENEGADE COMMANDS as at Sat Apr 11 01:26:28 2020
+
+ADMIN_MESSAGE <message> - sends an admin message to all clients. Host only. (amsg)
+EXTRAS <key>
+FPS - toggle FPS display. (fps)
+GAME_INFO - Print info about a game in progress to console box
+GAMEOVER - end current game (server only).
+KICK - Kick and ban a user from the game (WOL game server only).
+MESSAGE <message> - sends a chat message to all clients. Host only. (msg)
+NET_UPDATE_RATE - set the max. net update think rate (times per second). (nur)
+PLAYER_INFO - Print info about players in the game to the console box
+QUIT - End game and quit to desktop (dedicated server only).
+
+QUIT_SLAVE slavename - Shutdown a slave server (dedicated master server only).
+RESTART - Quit to desktop and restart process (dedicated server only).
+SCREEN_UV_BIAS - toggles the half pixel bias in screen text.
+SET_BW_BUDGET_OUT <bps> - set total bps budget out. (sbbo)
+TOGGLE_SORTING - toggles WW3D sorting.

@@ -1,0 +1,4 @@
+# This INI file is associated with English
+# Each language will hav it's own SKU number
+
+RUN=RenegadeDemo.exe

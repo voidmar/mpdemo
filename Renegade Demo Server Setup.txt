@@ -1,0 +1,100 @@
+--------------------------------------------------------------------------
+CLIENT CONNECTION SPEED 
+--------------------------------------------------------------------------
+It is very important that your game is setup to use the correct connection
+speed for your Internet connection.  If the connection speed is not setup
+properly, it will drastically affect your game performance.  This setting
+communicates to the server how frequently your game should update.  If it
+is set too low, the server does not update your client as often as it could.
+If this value is set too high, the server may flood your game with too
+much information.  
+
+Because of this the game will automatically detect your bandwidth. 
+
+--------------------------------------------------------------------------
+SERVER CONNECTION SPEED 
+--------------------------------------------------------------------------
+If you are setting up a server, it is important that your connection speed
+is setup correctly.  The connection speed for the server determines how
+frequently clients connected to the server are updated. This has a direct
+effect on the experienced "lag" of the players connected to your server. 
+
+The game will automatically determine your bandwidth and use it to determine 
+the appropriate number of players your game can host. The number of players
+is scaled up using the following criteria:
+
+ Upload Bandwidth equal to or greater than 0.5 Mbps allows up to 8 players
+ Upload Bandwidth equal to or greater than 1.0 Mbps allows up to 16 players
+ Upload Bandwidth equal to or greater than 2.0 Mbps allows up to 32 players
+  
+
+Cable modems and DSL with an upload bandwidth of 128k/sec are NOT allowed 
+to host.
+
+To promote the best gameplay experience for all of our players, the server
+is automatically set to a dedicated server.
+
+--------------------------------------------------------------------------------
+SERVER OPTIONS
+--------------------------------------------------------------------------------
+Basic
+------------------
+  Game Name - Name of Game as it appears to other players in the game browser
+  Password - Password to enter game
+  Number of Players - Total Number of players allowed on Server: Automatically 
+	Configured by the game.
+  Preferred Side (Default: Auto Team) - Allows a preferred team.  Choices are Auto, 
+	GDI or Nod
+  IP Address - IP address of machine
+
+Gameplay
+------------------
+  Starting Credits (Default: 0) - Starting credits given to each player
+  Radar Mode (Default: Show all units)
+	Show No units - Radar is inactive
+	Show All Units - Show all friendly and enemy units
+	Show Allied - Show all Allied (friendly) units 
+	Players only       	
+  Friendly Fire (Default: Off) - Setting this allows players to damage friendly 
+        units
+  Can Repair Buildings (Default: On) - Enables or disables building repair
+  Driver is Always Gunner (Default: On) - The driver controls both the vehicle
+        and the vehicle's weapon
+  Spawn Weapons (Default: Off) - Enables pre-placed weapons spawners
+
+Advanced
+------------------
+  Dedicated Server (Automatically set to On)
+  Server Auto Restart (Default: On) - Automatically restarts the server if it 
+	goes down
+  Teaming Options (Default: Remix Teams)
+	Manual Teaming - Players can choose which team to join at any time
+  	Remix Teams - Randomly Mixes the players on each team on the next map 
+	in the cycle
+  Internet Options - Not active on the Renegade Demo
+  Message of the Day - Message displayed to players when joining the game
+
+
+Victory Conditions
+------------------
+  Destroy All Enemy Buildings (Default: On) - A team can win the game by destroying
+        all enemy buildings before time runs out.  If this is set to off, the Place
+	endgame beacon cannot be set to off.
+  Place EndGame Beacon (Default On) - Enables a victory condition based on placement 
+	and detenation of the Ion Cannon/Nuke Strike beacons in the Beacon Pedestal 
+	(See the readme file for more information).  
+
+
+Map Cycle
+------------------
+  Mod Package - Not available in the demo.
+  Available Maps - Displays all maps available maps to place in Map cycle. For the 
+	Demo there is one map, Under.
+  Map Cycle List - Currently selected maps in server map cycle.  For the 
+	Demo there is one map, Under.
+  Map Time Limit (Default: 25 Minutes) - Time limit for each map in the cycle.  Winner 
+	is determined by the score if a game reaches the time limit.
+  Loop Maps (default: On) - Restarts the Map Cycle after last map.
+
+
+Save/Load - Different server options can be saved to be loaded at different times

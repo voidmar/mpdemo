@@ -1,0 +1,132 @@
+***  Installation Started 04/11/2020 1:24  ***
+Title: Renegade Multiplayer Demo Installation
+Source: C:\Users\Mark\Desktop\RENEGADEMULTIDEMO1019.EXE | 04-11-2020 | 01:24:46 | 96216130
+Made Dir: C:\Westwood
+Made Dir: C:\Westwood\RenegadeMPDemo
+File Copy: C:\Westwood\RenegadeMPDemo\UNWISE.EXE | 11-05-2001 | 09:30:50 | | 165376 | 6ef8d7f9
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Renegade Multiplayer Demo
+RegDB Val: Renegade Multiplayer Demo
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Renegade Multiplayer Demo
+RegDB Val: C:\Westwood\RENEGA~1\UNWISE.EXE C:\Westwood\RENEGA~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\Westwood\RenegadeMPDemo\54251___.TTF | 12-13-1993 | 01:39:08 | | 30093 | e6dded3d
+File Copy: C:\Westwood\RenegadeMPDemo\ArcadeInstall.EXE | 02-14-2002 | 10:47:54 | 1.0.0.0 | 5426995 | 1e50986a
+File Copy: C:\Westwood\RenegadeMPDemo\ARI_____.TTF | 09-10-1998 | 02:09:08 | | 70788 | 8b1256f2
+File Copy: C:\Westwood\RenegadeMPDemo\BandTest.dll | 03-07-2002 | 17:56:36 | 1.0.0.0 | 106565 | bcf7a0e0
+File Copy: C:\Westwood\RenegadeMPDemo\binkw32.dll | 09-07-2001 | 15:16:44 | 1.2.1.0 | 305715 | 296a9494
+File Copy: C:\Westwood\RenegadeMPDemo\Buy Renegade At the EA.COM Online Store.url | 02-12-2002 | 17:18:50 | | 289 | 4a630b2f
+File Copy: C:\Westwood\RenegadeMPDemo\ConsoleServer.exe | 02-17-2002 | 11:04:26 | 1.4.0.0 | 94208 | 3a9766ad
+File Copy: C:\Westwood\RenegadeMPDemo\ConsoleServer.lcf | 02-17-2002 | 12:18:24 | | 114 | f9806000
+File Copy: C:\Westwood\RenegadeMPDemo\GameSpy Arcade.url | 02-13-2002 | 14:14:46 | | 329 | b9d4525e
+File Copy: C:\Westwood\RenegadeMPDemo\gamespy.ico | 02-13-2002 | 14:04:18 | | 1078 | dbf1ef62
+File Copy: C:\Westwood\RenegadeMPDemo\Mp3dec.asi | 12-15-2001 | 10:34:18 | 3.0.0.0 | 126464 | be36df11
+File Copy: C:\Westwood\RenegadeMPDemo\Mss32.dll | 12-15-2001 | 10:28:46 | 3.0.0.0 | 350208 | 286c6825
+File Copy: C:\Westwood\RenegadeMPDemo\Mssa3d.m3d | 12-15-2001 | 10:31:48 | 3.0.0.0 | 52224 | 828e683
+File Copy: C:\Westwood\RenegadeMPDemo\Mssds3dh.m3d | 12-15-2001 | 10:31:50 | 3.0.0.0 | 51200 | ea1c8f9b
+File Copy: C:\Westwood\RenegadeMPDemo\Msseax.m3d | 12-15-2001 | 10:31:54 | 3.0.0.0 | 54272 | 66f9213b
+File Copy: C:\Westwood\RenegadeMPDemo\Msseax2.m3d | 12-15-2001 | 10:31:48 | 3.0.0.0 | 70144 | de973691
+File Copy: C:\Westwood\RenegadeMPDemo\Mssfast.m3d | 12-15-2001 | 10:31:54 | 3.0.0.0 | 63488 | 24d57a9e
+File Copy: C:\Westwood\RenegadeMPDemo\Planet Command & Conquer.url | 02-11-2002 | 17:18:12 | | 186 | 4747310
+File Copy: C:\Westwood\RenegadeMPDemo\README.HTM | 02-14-2002 | 15:39:14 | | 35557 | 77ef90a1
+File Copy: C:\Westwood\RenegadeMPDemo\Renegade Demo Server Setup.txt | 02-16-2002 | 18:52:52 | | 4657 | fb9476d2
+File Copy: C:\Westwood\RenegadeMPDemo\RenegadeDemo.exe | 03-07-2002 | 17:52:40 | 1.19.0.1 | 4350224 | 3ffcc9e0
+File Copy: C:\Westwood\RenegadeMPDemo\RenegadeDemo.ico | 08-15-2001 | 09:53:24 | | 2238 | abb07f17
+File Copy: C:\Westwood\RenegadeMPDemo\Scripts.dll | 03-07-2002 | 16:39:48 | | 2256963 | ca3ccbc1
+File Copy: C:\Westwood\RenegadeMPDemo\server.ini | 02-16-2002 | 13:36:14 | | 4620 | 9ab277ec
+File Copy: C:\Westwood\RenegadeMPDemo\Westwood Renegade Site.url | 02-11-2002 | 17:03:00 | | 270 | dde8f84
+File Copy: C:\Westwood\RenegadeMPDemo\WWConfig.exe | 02-12-2002 | 16:35:14 | 1.8.0.0 | 1007616 | 8db72c1d
+Made Dir: C:\Westwood\RenegadeMPDemo\data
+File Copy: C:\Westwood\RenegadeMPDemo\data\always.dat | 02-13-2002 | 11:10:48 | | 94860158 | 30a22b21
+File Copy: C:\Westwood\RenegadeMPDemo\data\always.dbs | 03-11-2002 | 14:33:52 | | 8535970 | 1484d02f
+File Copy: C:\Westwood\RenegadeMPDemo\data\always2.dat | 03-11-2002 | 14:48:00 | | 6675884 | e83120b6
+File Copy: C:\Westwood\RenegadeMPDemo\data\C&C_Under.mix | 02-13-2002 | 11:12:58 | | 37402775 | c87d654f
+File Copy: C:\Westwood\RenegadeMPDemo\data\dedicated.ini | 02-13-2002 | 14:44:34 | | 544 | 924a7617
+File Copy: C:\Westwood\RenegadeMPDemo\data\gamespylogo.TGA | 02-13-2002 | 17:40:52 | | 87364 | 21228818
+File Copy: C:\Westwood\RenegadeMPDemo\data\multisplash01.tga | 02-13-2002 | 17:10:42 | | 786476 | 55aee327
+File Copy: C:\Westwood\RenegadeMPDemo\data\multisplash02.tga | 02-13-2002 | 17:13:22 | | 786476 | f28f7b69
+File Copy: C:\Westwood\RenegadeMPDemo\data\svrcfg_cnc.ini | 02-17-2002 | 16:57:02 | | 542 | 5e7f17f1
+Made Dir: C:\Westwood\RenegadeMPDemo\IMAGES
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\BEACONS.JPG | 11-27-2001 | 11:23:48 | | 6988 | 4ee97884
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Beacon_Pedestal.jpg | 11-27-2001 | 11:19:00 | | 6368 | 1e7d14a8
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Bldg_AGT_Obelisk.jpg | 11-27-2001 | 11:53:48 | | 7933 | dd07bd9e
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Bldg_Barracks_HoNod.jpg | 11-27-2001 | 11:39:50 | | 7958 | 81897406
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Bldg_Power_Plant.jpg | 11-27-2001 | 11:36:44 | | 7317 | 5df2e0aa
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Bldg_Refinery.jpg | 11-27-2001 | 11:37:10 | | 6912 | 96bb287a
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Bldg_Weap_Fac_Airstrip.jpg | 11-27-2001 | 12:00:48 | | 8326 | 743342b2
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\C&C_GDI_OnWhite.jpg | 11-28-2001 | 06:16:56 | | 6367 | dc6d3ad1
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\C&C_NOD_OnWhite.jpg | 11-28-2001 | 06:16:36 | | 7860 | 1166050e
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\GDI_BAR.JPG | 11-27-2001 | 04:22:08 | | 30526 | 92dfc2a
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\MCT_GDI.JPG | 11-27-2001 | 11:56:40 | | 8531 | b104e807
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\PCT_GDI.JPG | 11-27-2001 | 11:56:46 | | 11792 | 499c42f0
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Renegade_Logo.jpg | 11-26-2001 | 08:14:04 | | 80491 | d75c0a36
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_Advanced_Listings.jpg | 11-27-2001 | 11:12:00 | | 47487 | ce04e4e8
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_F1_Help.jpg | 11-27-2001 | 11:11:38 | | 54540 | bffeb8b4
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_GDI_Characters.jpg | 11-28-2001 | 04:58:56 | | 57253 | ed8e3973
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_GDI_Gameplay.jpg | 11-28-2001 | 05:01:04 | | 32241 | 1068ac81
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_GDI_Main.jpg | 11-28-2001 | 04:59:14 | | 57075 | b6cde85e
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_GDI_Vehicles.jpg | 11-28-2001 | 04:54:38 | | 47124 | e3a98948
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_Main_Menu.jpg | 11-27-2001 | 11:12:38 | | 47596 | bf4c12de
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_NOD_Characters.jpg | 11-28-2001 | 05:00:12 | | 58216 | 77dfc2c3
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_NOD_Gameplay.jpg | 11-28-2001 | 05:01:14 | | 28715 | 660ab357
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_NOD_Main.jpg | 11-28-2001 | 05:00:30 | | 57166 | a281a70f
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_NOD_Vehicles.jpg | 11-28-2001 | 04:59:50 | | 49474 | 25790856
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_Start_Game.jpg | 11-27-2001 | 11:12:22 | | 41025 | 9b152715
+File Copy: C:\Westwood\RenegadeMPDemo\IMAGES\Scrn_Team_Selection.jpg | 11-27-2001 | 11:10:52 | | 45092 | 7fe9a4ba
+Shell Link: C:\Users\Mark\Desktop\Renegade Multiplayer Demo.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\UNWISE.EXE | C:\Westwood\RenegadeMPDemo | C:\Westwood\RenegadeMPDemo\RenegadeDemo.ico | 0 | 1 | 0 | /W1 "C:\Westwood\RenegadeMPDemo\INSTALL.LOG"
+Shell Link: C:\Users\Mark\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Renegade Multiplayer Demo\Play Renegade with GameSpy Arcade.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\UNWISE.EXE |  | C:\Westwood\RenegadeMPDemo\gamespy.ico | 0 | 1 | 0 | /W2 "C:\Westwood\RenegadeMPDemo\INSTALL.LOG"
+Shell Link: C:\Users\Mark\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Renegade Multiplayer Demo\Renegade Multiplayer Demo.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\UNWISE.EXE | C:\Westwood\RenegadeMPDemo | C:\Westwood\RenegadeMPDemo\RenegadeDemo.exe | 0 | 1 | 0 | /W3 "C:\Westwood\RenegadeMPDemo\INSTALL.LOG"
+Shell Link: C:\Users\Mark\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Renegade Multiplayer Demo\Renegade Configuration.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\UNWISE.EXE | C:\Westwood\RenegadeMPDemo | C:\Westwood\RenegadeMPDemo\wwconfig.exe | 0 | 1 | 0 | /W4 "C:\Westwood\RenegadeMPDemo\INSTALL.LOG"
+Shell Link: C:\Users\Mark\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Renegade Multiplayer Demo\Renegade Multiplayer Demo Readme.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\README.HTM |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Mark\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Renegade Multiplayer Demo\Renegade Links\Planet Command & Conquer Site.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\UNWISE.EXE |  | C:\Westwood\RenegadeMPDemo\gamespy.ico | 0 | 1 | 0 | /W5 "C:\Westwood\RenegadeMPDemo\INSTALL.LOG"
+Shell Link: C:\Users\Mark\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Renegade Multiplayer Demo\Renegade Links\Westwood Studios Renegade Site.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\UNWISE.EXE |  | C:\Westwood\RenegadeMPDemo\renegadedemo.ico | 0 | 1 | 0 | /W6 "C:\Westwood\RenegadeMPDemo\INSTALL.LOG"
+Shell Link: C:\Users\Mark\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Renegade Multiplayer Demo\Renegade Links\Buy Renegade @ the EA.COM Store.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\UNWISE.EXE |  | %SystemRoot%\system32\url.dll | 5 | 1 | 0 | /W7 "C:\Westwood\RenegadeMPDemo\INSTALL.LOG"
+Shell Link: C:\Users\Mark\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Renegade Multiplayer Demo\Uninstall Renegade Demo.lnk
+Link Info: C:\Westwood\RenegadeMPDemo\UNWISE.EXE | C:\Westwood\RenegadeMPDemo | C:\Westwood\RenegadeMPDemo\unwise.exe | 0 | 1 | 0 | /W8 "C:\Westwood\RenegadeMPDemo\INSTALL.LOG"
+RegDB Key: SOFTWARE\Westwood\RenegadeMPDemo
+RegDB Val: C:\Westwood\RenegadeMPDemo\RenegadeDemo.exe
+RegDB Name: InstallPath
+RegDB Root: 2
+RegDB Key: SOFTWARE\Westwood\RenegadeMPDemo
+RegDB Val: 0
+RegDB Name: Language
+RegDB Root: 2
+RegDB Key: SOFTWARE\Westwood\RenegadeMPDemo
+RegDB Val: RenegadeMPDemo
+RegDB Name: Name
+RegDB Root: 2
+RegDB Key: SOFTWARE\Westwood\RenegadeMPDemo
+RegDB Val: 13056
+RegDB Name: SKU
+RegDB Root: 2
+RegDB Key: SOFTWARE\Westwood\RenegadeMPDemo
+RegDB Val: 65538
+RegDB Name: Version
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Renegade Multiplayer Demo
+RegDB Val: Version 1.0
+RegDB Name: DisplayVersion
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Renegade Multiplayer Demo
+RegDB Val: Electronic Arts, Inc.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Renegade Multiplayer Demo
+RegDB Val: www.westwood.com/games/ccuniverse/renegade
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Renegade Multiplayer Demo
+RegDB Val: www.westwood.com/games/ccuniverse/renegade
+RegDB Name: HelpLink
+RegDB Root: 2
+User Rights: Admin
